@@ -5,31 +5,14 @@
 
 # Hey, I'm Blair 👾
 
-### Building things, one commit at a time.
-
 **Go Backend · Distributed Systems**
 
 </div>
 
----
-
-## 🖥️ $ whoami
-
-```bash
-$ whoami
-A developer exploring how systems work under the hood.
-
-$ currently
-Learning Go, Distributed Systems and Cloud Native.
-
-$ philosophy
-Understand the system, not just the API.
-```
-
 ## ⚔️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,c++,go,linux,docker,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,go,linux,docker,git&theme=light" />
 </p>
 
 ## 🎮 Contribution Arcade
@@ -62,7 +45,6 @@ Understand the system, not just the API.
 
 - **Go Backend:** Learning backend engineering and networking.
 - **Distributed Systems:** Exploring distributed computing.
-- **Cloud Native:** Exploring containers and infrastructure.
 
 ## 🚀 Featured Projects
 
