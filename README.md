@@ -19,9 +19,16 @@
 
 <p align="center">
   <img
-    src="./profile-3d-contrib/profile-green-animate.svg"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=whitebrain0242&theme=github-compact"
     width="100%"
-    alt="3D Contribution Calendar"
+    alt="Contribution Activity"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitebrain0242&layout=compact&langs_count=6"
+    alt="Top Languages"
   />
 </p>
 
