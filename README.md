@@ -1,16 +1,56 @@
-## Hi there 👋
 
-<!--
-**whitebrain0242/whitebrain0242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hey, I'm Blair 👾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Building things, one commit at a time.
+
+**Go Backend · Cloud Native · Distributed Systems**
+
+</div>
+
+---
+
+## 🖥️ $ whoami
+
+```bash
+$ whoami
+A developer exploring how systems work under the hood.
+
+$ currently
+Learning Go, Distributed Systems and Cloud Native.
+
+$ philosophy
+Understand the system, not just the API.
+```
+
+## ⚔️ Tech Arsenal
+
+<!-- Tech icons will be added here -->
+
+## 🎮 Contribution Arcade
+
+<!-- Contribution animations will be added here -->
+
+## 🗺️ Engineering Journey
+
+- **Go Backend:** Learning backend engineering and networking.
+- **Distributed Systems:** Exploring distributed computing.
+- **Cloud Native:** Exploring containers and infrastructure.
+
+## 🚀 Featured Projects
+
+<!-- Replace these with your real repositories -->
+
+- [6.5840](https://github.com/whitebrain0242/6.5840) — MIT 6.5840
+
+---
+
+<div align="center">
+
+**GAME NEVER OVER 👾**
+
+Keep building. Keep exploring.
+
+</div>
+
