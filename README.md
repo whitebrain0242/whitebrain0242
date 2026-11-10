@@ -1,5 +1,7 @@
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello%2C+World!;Welcome+to+my+GitHub!;Building+things+one+commit+at+a+time." />
+</div>
 
 # Hey, I'm Blair 👾
 
@@ -26,7 +28,9 @@ Understand the system, not just the API.
 
 ## ⚔️ Tech Arsenal
 
-<!-- Tech icons will be added here -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,c++,go,linux,docker,git&theme=light" />
+</p>
 
 ## 🎮 Contribution Arcade
 
