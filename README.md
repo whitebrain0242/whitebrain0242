@@ -34,7 +34,13 @@ Understand the system, not just the API.
 
 ## 🎮 Contribution Arcade
 
-<!-- Contribution animations will be added here -->
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    width="100%"
+    alt="3D Contribution Calendar"
+  />
+</p>
 
 ## 🗺️ Engineering Journey
 
