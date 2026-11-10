@@ -1,0 +1,10 @@
+# 将某个目录标记为第三方库或生成代码，不计入语言统计
+profile-3d-contrib/** linguist-vendored
+.github/workflows/** linguist-vendored
+
+# 将特定大文件标记为文档或数据，不计入语言统计
+*.svg linguist-documentation
+*.json linguist-documentation
+
+# 或者，如果你想将某种文件强制识别为特定语言（例如，将 .txt 识别为 Markdown）
+# *.txt linguist-language=Markdown
