@@ -7,7 +7,7 @@
 
 ### Building things, one commit at a time.
 
-**Go Backend · Cloud Native · Distributed Systems**
+**Go Backend · Distributed Systems**
 
 </div>
 
