@@ -43,8 +43,10 @@
 
 ## 🗺️ Engineering Journey
 
+- **C++ NetWork:** Building a multi-client chat server. 
 - **Go Backend:** Learning backend engineering and networking.
 - **Distributed Systems:** Exploring distributed computing.
+- **TMS:** - **TMS:** Learning business modeling and enterprise software design.
 
 ## 🚀 Featured Projects
 
